@@ -166,9 +166,7 @@ a:hover {
 
 /*--/ Title Left /--*/
 
-.title-box-2 {
-  margin-bottom: 3rem;
-}
+
 
 .title-left {
   font-size: 2rem;
@@ -1268,4 +1266,18 @@ footer .credits a {
   .back-to-top {
     bottom: 15px;
   }
+}
+p.lead {
+    font-family: cursive;
+    font-size: initial;
+    font-weight: 200;
+    color: darkblue;
+    border-bottom: solid;
+}
+.about-info {
+    font-family: monospace;
+    font-weight: 300;
+    font-size: large;
+    color: darkcyan;
+    border-top: solid;
 }
